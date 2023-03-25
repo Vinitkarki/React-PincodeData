@@ -1,0 +1,39 @@
+.form {
+    margin: 1.5rem;
+}
+
+input {
+    border: 2px solid black;
+    width: 100%;
+    min-height: 2.5rem;
+    border-radius: 5px;
+    margin: 0.5rem 0 0.5rem 0;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: 8rem;
+    border-radius: 5px;
+    margin-top: 0.5rem;
+}
+
+.result {
+    margin: 1.5rem
+}
+
+.post_offices {
+    border: 1px solid black;
+    margin: 1.5rem;
+    display: inline-block;
+    width: 46%;
+    padding: 0.8rem;
+    border-radius: 5px;
+    font-weight: 500;
+}
